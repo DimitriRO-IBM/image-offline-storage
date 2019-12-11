@@ -1,0 +1,4 @@
+applications:
+  - name: image-offline-storage
+    buildpack: staticfile_buildpack
+    host: pwa-poney
